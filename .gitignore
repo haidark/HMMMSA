@@ -1,0 +1,4 @@
+#ignore temporary files
+*.seq
+*.drct
+*.gca
