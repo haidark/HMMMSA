@@ -1,0 +1,111 @@
+Initial pairwise alignment: 1.gca, 2.gca
+QUERY          47   ELASAL     52
+TARGET         38   TLANAL     43
+
+
+Initial pairwise alignment: 1.gca, 3.gca
+QUERY           2   ISSRVKSKRIQLGLNQAELAQKVGT......TQQSIEQLEN     36
+TARGET          8   FANEFKVRRIKLGYTQTNVGEALAAVHGSEFSQTTICRFEN     48
+
+
+Initial pairwise alignment: 1.gca, 4.gca
+QUERY          11   IQLGLNQAELAQKVGTTQQSIEQLENGKTKRPRFLPELASALGVSVDWLL     60
+TARGET        156   IAQGLPNKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVWVHQERIF    205
+
+
+Initial pairwise alignment: 2.gca, 3.gca
+QUERY          37   TTLA....NALERHW.....PKGEQIIANALETKPE.....VIWPSRYQ     71
+TARGET         76   TTISIAAKDALERHFGEHSKPSSQEIMRMAEELNLEKEVVRVWFCNRRQ    124
+
+
+Initial pairwise alignment: 2.gca, 4.gca
+QUERY          34   YAPTTLANALERHWPKGEQIIANALET     60
+TARGET        107   MEPEDLLKALHQAAA.GEMVLSEALTP    132
+
+
+Initial pairwise alignment: 3.gca, 4.gca
+QUERY           2   MRALEQFANEFKVRRIKLGYTQTNVGEALAAVHGSEFSQTT.........     42
+TARGET        113   LKALHQAAAGEMV...........LSEALTPVLAASLERDVNQLTPRERD    151
+
+QUERY          43   .............ICRFENLQLSFKNACKLKAILSKWLEEAEQKRRTTIS     79
+TARGET        152   ILKLIAQGLPNKMIARRLDITEST.....VKVHVKHMLKKMKLKSRVEAA    196
+
+QUERY          80   IAA     82
+TARGET        197   VWV    199
+
+
+Multiple sequence alignment (Iteration 1): 1-2-3-4.drct, 1.drct
+PARENT        156   IAQGLPNKMIARRLDITESTVK    177
+CHILD          11   IQLGLNQAELAQKVGTTQQSIE     32
+
+
+Multiple sequence alignment (Iteration 1): 1-2-3-4.drct, 2.drct
+PARENT        107   MEPEDLLKALHQAAA.GEMVLSEALTP    132
+CHILD          34   YAPTTLANALERHWPKGEQIIANALET     60
+
+
+Multiple sequence alignment (Iteration 1): 1-2-3-4.drct, 3.drct
+PARENT         17   GVKQLISMAPDI...........TVVGEASNGEQGIELAESLDPDLILLD     55
+CHILD           1   GMRALEQFANEFKVRRIKLGYTQTNVGEALAAVHGSEFSQTT........     42
+
+PARENT         56   LNMPGMNGLETLDKLREKSLSGRIVVFSVSNHEEDVVTALKRGADGYLLK    105
+CHILD          43   ........ICRFENL..........QLSFKNACK................     58
+
+PARENT        106   DMEPEDLLKALHQAAAGEMVLSEALTPVLAA..SLERDVNQLTPRERDIL    153
+CHILD          59   .......LKAILSKWLEEAEQKRRTTISIAAKDALERHFGEHS.......     94
+
+PARENT        154   KLIAQGLPNKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVW    198
+CHILD          95   KPSSQ....................EIMRMAEELNLEKEVVRVWF    119
+
+
+Multiple sequence alignment (Iteration 1): 1-2-3-4.drct, 4.drct
+PARENT          1   EPATILLIDDHPMLRTGVKQLISMAPDITVVGEASNGEQGIELAESLDPD     50
+CHILD           1   EPATILLIDDHPMLRTGVKQLISMAPDITVVGEASNGEQGIELAESLDPD     50
+
+PARENT         51   LILLDLNMPGMNGLETLDKLREKSLSGRIVVFSVSNHEEDVVTALKRGAD    100
+CHILD          51   LILLDLNMPGMNGLETLDKLREKSLSGRIVVFSVSNHEEDVVTALKRGAD    100
+
+PARENT        101   GYLLKDMEPEDLLKALHQAAAGEMVLSEALTPVLAASLERDVNQLTPRER    150
+CHILD         101   GYLLKDMEPEDLLKALHQAAAGEMVLSEALTPVLAASLERDVNQLTPRER    150
+
+PARENT        151   DILKLIAQGLPNKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVWVH    200
+CHILD         151   DILKLIAQGLPNKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVWVH    200
+
+PARENT        201   QERIF    205
+CHILD         201   QERIF    205
+
+
+//
+
+
+
+  1r69_         .......... .......... .......... .......... .......... 
+  1neq_         .......... .......... .......... .......... .......... 
+  1au7_A        .......... ......GMRA LEQFANEFKV RRIKLGYTQT NVGEALAAVH 
+  1a04_A        EPATILLIDD HPMLRTGVKQ LISMAPDI.. .........T VVGEASNGEQ 
+
+
+  1r69_         .......... .......... .......... .......... .......... 
+  1neq_         .......... .......... .......... .......... .......... 
+  1au7_A        GSEFSQTT.. .......... ....ICRFEN L......... .QLSFKNACK 
+  1a04_A        GIELAESLDP DLILLDLNMP GMNGLETLDK LREKSLSGRI VVFSVSNHEE 
+
+
+  1r69_         .......... .......... .......... .......... .......... 
+  1neq_         .......... .......... .......... .......... .......... 
+  1au7_A        .......... .......... ...LKAILSK WLEEAEQKRR TTISIAAKDA 
+  1a04_A        DVVTALKRGA DGYLLKDMEP EDLLKALHQA AAGEMVLSEA LTPVLAA..S 
+
+
+  1r69_         .......... ........IQ LGLNQAELAQ KVGTTQQSIE .......... 
+  1neq_         .......... ........YA PTTLANALER HWPKGEQIIA .......... 
+  1au7_A        LERHFGEHS. ......KPSS Q......... .......... .EIMRMAEEL 
+  1a04_A        LERDVNQLTP RERDILKLIA QGLPNKMIAR RLDITESTVK VHVKHMLKKM 
+
+
+  1r69_         .......... ........                                    
+  1neq_         .......... ........                                    
+  1au7_A        NLEKEVVRVW F.......                                    
+  1a04_A        KLKSRVEAAV WVHQERIF                                    
+
+

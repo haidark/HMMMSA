@@ -65,3 +65,74 @@ PARENT        163   FDHKVNQVHR....STVDLTA    179
 CHILD         137   MEEKATYVHKKNDGTTVDLTV    157
 
 
+Multiple sequence alignment (Iteration 1): 1-2-4-3-5.drct, 2.drct
+PARENT          3   SALEIKKHEEKWNKYYGVNALKLPKELFSKVDEKDRLKYEYNSAGNVVIK     52
+CHILD           3   SAEEIKKHEEKWNKYYGVNAFNLPKELFSKVDEKDRQKYPYNTIGNVFVK     52
+
+PARENT         53   GALSMEGKVMGKNTVLSNRHILKFANGDPSKVSFRPSINTDDNGNTETPY    102
+CHILD          53   GQTSATGVLIGKNTVLTNRHIAKFANGDPSKVSFRPSINTDDNGNTETPY    102
+
+PARENT        103   GEYEVKEIVQEPFGAGVDIALIRLKPDQNGASLGDKISPAKIGTSNDLKD    152
+CHILD         103   GEYEVKEILQEPFGAGVDLALIRLKPDQNGVSLGDKISPAKIGTSNDLKD    152
+
+PARENT        153   GDKLELIGYPFDHKVNQVHRSTVDLTALSRGLRYYGFTVPGNSGSGTWNS    202
+CHILD         153   GDKLELIGYPFDHKVNQMHRSEIELTTLSRGLRYYGFTVPGNSGSGIFNS    202
+
+PARENT        203   KGKTIGIVSSKVSHLDTEEWINYGVGIGNYVKQIINEKNE    242
+CHILD         203   NGELVGIHSSKVSHLDREHQINYGVGIGNYVKRIINEKNE    242
+
+
+Multiple sequence alignment (Iteration 1): 1-2-4-3-5.drct, 3.drct
+PARENT        120   DIALIRLKPDQNG....ASLGDKISPAKIGTS    147
+CHILD          83   DIMLIKLKSAASLNSRVASISLPTSCASAGTQ    114
+
+
+Multiple sequence alignment (Iteration 1): 1-2-4-3-5.drct, 4.drct
+PARENT         38   RLKYEYNSAGNVVIKGALSMEGKVMG     63
+CHILD          66   YLYQDITTAGNAFVGQAVQRSGSTTG     91
+
+
+Multiple sequence alignment (Iteration 1): 1-2-4-3-5.drct, 5.drct
+PARENT         50   VIKGALSMEGKVM     62
+CHILD          19   VIGHALAMEGKVM     31
+
+
+//
+
+
+
+  1hav_A        .......... .......... .......... .......... .......... 
+  1agj_A        SAEEIKKHEE KWNKYYGVNA FNLPKELFSK VDEKDRQKYP YNTIGNVFVK 
+  5ptp_         .......... .......... .......... .......... .......... 
+  2sga_         .......... .......... .......... .....YLYQD ITTAGNAFVG 
+  1svp_A        .......... .......... .......... .......... .......VIG 
+
+
+  1hav_A        .......... .......... .......... .......... .......... 
+  1agj_A        GQTSATGVLI GKNTVLTNRH IAKFANGDPS KVSFRPSINT DDNGNTETPY 
+  5ptp_         .......... .......... .......... .......... .......... 
+  2sga_         QAVQRSGSTT G......... .......... .......... .......... 
+  1svp_A        HALAMEGKVM .......... .......... .......... .......... 
+
+
+  1hav_A        .......... .......... .......... .......... .......... 
+  1agj_A        GEYEVKEILQ EPFGAGVDLA LIRLKPDQNG ....VSLGDK ISPAKIGTSN 
+  5ptp_         .......... .......DIM LIKLKSAASL NSRVASISLP TSCASAGTQ. 
+  2sga_         .......... .......... .......... .......... .......... 
+  1svp_A        .......... .......... .......... .......... .......... 
+
+
+  1hav_A        .......... ....MEEKAT YVHKKNDGTT VDLTV..... .......... 
+  1agj_A        DLKDGDKLEL IGYPFDHKVN QMHR....SE IELTTLSRGL RYYGFTVPGN 
+  5ptp_         .......... .......... .......... .......... .......... 
+  2sga_         .......... .......... .......... .......... .......... 
+  1svp_A        .......... .......... .......... .......... .......... 
+
+
+  1hav_A        .......... .......... .......... .......... ........   
+  1agj_A        SGSGIFNSNG ELVGIHSSKV SHLDREHQIN YGVGIGNYVK RIINEKNE   
+  5ptp_         .......... .......... .......... .......... ........   
+  2sga_         .......... .......... .......... .......... ........   
+  1svp_A        .......... .......... .......... .......... ........   
+
+
