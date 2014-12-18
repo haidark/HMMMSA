@@ -1,0 +1,67 @@
+Initial pairwise alignment: 1.gca, 2.gca
+QUERY           1   STLEIAGL      8
+TARGET        173   SEIELTTL    180
+
+
+Initial pairwise alignment: 1.gca, 3.gca
+QUERY          84   DVVLMKVPTIPKFRDITQHFIKKGDVPRALNRLATL....VTTVNGTPML    129
+TARGET         83   DIMLIKLKSAASLNS................RVASISLPTSCASAGTQCL    116
+
+QUERY         130   IS    131
+TARGET        117   IS    118
+
+
+Initial pairwise alignment: 1.gca, 4.gca
+QUERY         192   VAGGNSI............LVAKLVTQEMFQNI    212
+TARGET          1   IAGGEAITTGGSRCSLGFNVVAHALTAGHCTNI     33
+
+
+Initial pairwise alignment: 1.gca, 5.gca
+QUERY         115   RLATLVTTVNGTPMLISEGPLKMEEKAT    142
+TARGET        133   RTALSVVTWNSKGKTIKTTPEGTEEWSA    160
+
+
+Initial pairwise alignment: 2.gca, 3.gca
+QUERY         120   DLALIRLK    127
+TARGET         83   DIMLIKLK     90
+
+
+Initial pairwise alignment: 2.gca, 4.gca
+QUERY          45   TIGNVFV     51
+TARGET         73   TAGNAFV     79
+
+
+Initial pairwise alignment: 2.gca, 5.gca
+QUERY         163   FDHKVNQM...HRSEIELTTLSRGLRYYGF    189
+TARGET         56   YDMEFAQLPVNMRSEAFTYTSEHPEGFYNW     85
+
+
+Initial pairwise alignment: 3.gca, 4.gca
+QUERY          33   QWVVSAAHCYKSGIQVLGEDNINVVEGNEQFISASKSIVHPSYNSNTLNN     82
+TARGET         22   AHALTAGHCTNISAWSIG.......................TRTGTSFNN     48
+
+QUERY          83   DIMLIKLKSAASLNSRVASISLPTSC..ASAGTQCLISGWGNTKSSGTSY    130
+TARGET         49   DYGIIRHSNPAAADGRVYLYQDITTAGNAFVGQAVQRSG...........     87
+
+QUERY         131   PDVLKCLKAPILSDSSCKSAYPGQIT.........SNMFCAGLEGGDSCQ    171
+TARGET         88   ...............STTGLRSGSVTGLNATVNYGSSGIVYGMIQTNVCA    122
+
+QUERY         172   GDXGGPVVCSGKLQGIVSWGSGCAKNKPGVYTKVCNYVSWIKQTIA    217
+TARGET        123   GDSGGSLFAGSTALGLTSGGSGNCR......TGGTTFYQPVTEALA    162
+
+
+Initial pairwise alignment: 3.gca, 5.gca
+QUERY          91   SAASLNSRVASISLP...TSCASA    111
+TARGET        137   SVVTWNSKGKTIKTTPEGTEEWSA    160
+
+
+Initial pairwise alignment: 4.gca, 5.gca
+QUERY          20   VVAHALTA     27
+TARGET         19   VIGHALAM     26
+
+
+Multiple sequence alignment (Iteration 1): 1-2-4-3-5.drct, 1.drct
+PARENT        163   FDHKVNQVHR....STVDLTA    179
+CHILD         137   MEEKATYVHKKNDGTTVDLTV    157
+
+

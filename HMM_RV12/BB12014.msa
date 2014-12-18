@@ -1,0 +1,418 @@
+Initial pairwise alignment: 1.gca, 2.gca
+QUERY           2   QRRSRTTFSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWFQ     51
+TARGET          2   SKRTRQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQ     51
+
+QUERY          52   NRRARLRKQHT     62
+TARGET         52   NRRMKSKKDRT     62
+
+
+Initial pairwise alignment: 1.gca, 3.gca
+QUERY           2   QRRSRTTFSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWFQ     51
+TARGET          2   RRKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQ     51
+
+QUERY          52   NRRARLRKQHT     62
+TARGET         52   NHRYKMKRQAK     62
+
+
+Initial pairwise alignment: 1.gca, 4.gca
+QUERY           9   FSASQLDELERAFERTQ...YPDIYTREELAQRTNLTEARIQVWFQNRR     54
+TARGET         24   FTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRR     72
+
+
+Initial pairwise alignment: 1.gca, 5.gca
+QUERY           9   FSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWF     50
+TARGET          1   ISPQARAFLEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWF     42
+
+
+Initial pairwise alignment: 1.gca, 6.gca
+QUERY           6   RTTFSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWFQNRRA     55
+TARGET          7   RTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRC     56
+
+QUERY          56   RLRKQHTSV     64
+TARGET         57   KDKKRSIMM     65
+
+
+Initial pairwise alignment: 1.gca, 7.gca
+QUERY           3   RRSRTTFSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWFQN     52
+TARGET         10   RKPRTPFTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTETQVKIWFQN     59
+
+QUERY          53   RRARLRKQHTS     63
+TARGET         60   RRAKAKRLQEA     70
+
+
+Initial pairwise alignment: 1.gca, 8.gca
+QUERY           3   RRSRTTFSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWFQN     52
+TARGET         36   KRPRTVFTDEQLEKLEESFNTSGYLSGSTRAKLAESLGLSDNQVKVWFQN     85
+
+QUERY          53   RRARLRK     59
+TARGET         86   RRTKQKK     92
+
+
+Initial pairwise alignment: 1.gca, 9.gca
+QUERY           3   RRSRTTFSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWFQN     52
+TARGET        109   RRSRTIFTELQLMGLEKKFQKQKYLSTPDRLDLAQSLGLTQLQVKTWYQN    158
+
+QUERY          53   RRARLRKQ     60
+TARGET        159   RRMKWKKM    166
+
+
+Initial pairwise alignment: 2.gca, 3.gca
+QUERY           3   KRTRQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQN     52
+TARGET          3   RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQN     52
+
+QUERY          53   RRMKSKK     59
+TARGET         53   HRYKMKR     59
+
+
+Initial pairwise alignment: 2.gca, 4.gca
+QUERY           9   YTRYQTLELEKEFH...FNRYITRRRRIDIANALSLSERQIKIWFQNRRM     55
+TARGET         24   FTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRRR     73
+
+QUERY          56   KSK     58
+TARGET         74   KEK     76
+
+
+Initial pairwise alignment: 2.gca, 5.gca
+QUERY           7   QTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQNRRMK     56
+TARGET         11   EVFRRKQSLNSKEKEE............VAKKCGITPLQVRVWFINKRMR     48
+
+QUERY          57   S     57
+TARGET         49   S     49
+
+
+Initial pairwise alignment: 2.gca, 6.gca
+QUERY           7   QTYTRYQTLELEKEFHFNRYITRRRRIDIAN.............ALSLSE     43
+TARGET          1   MKTTRVRTVLNEKQLHTLRTCY......AANPRPDALMKEQLVEMTGLSP     44
+
+QUERY          44   RQIKIWFQNRRMKSKK     59
+TARGET         45   RVIRVWFQNKRCKDKK     60
+
+
+Initial pairwise alignment: 2.gca, 7.gca
+QUERY           6   RQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQNRRM     55
+TARGET         13   RTPFTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTETQVKIWFQNRRA     62
+
+QUERY          56   KSKK     59
+TARGET         63   KAKR     66
+
+
+Initial pairwise alignment: 2.gca, 8.gca
+QUERY           3   KRTRQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQN     52
+TARGET         36   KRPRTVFTDEQLEKLEESFNTSGYLSGSTRAKLAESLGLSDNQVKVWFQN     85
+
+QUERY          53   RRMKSKK     59
+TARGET         86   RRTKQKK     92
+
+
+Initial pairwise alignment: 2.gca, 9.gca
+QUERY           3   KRTRQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQN     52
+TARGET        109   RRSRTIFTELQLMGLEKKFQKQKYLSTPDRLDLAQSLGLTQLQVKTWYQN    158
+
+QUERY          53   RRMKSKK     59
+TARGET        159   RRMKWKK    165
+
+
+Initial pairwise alignment: 3.gca, 4.gca
+QUERY           9   FSQAQVYELERRFKQQK...YLSAPEREHLASMIHLTPTQVKIWFQNHRY     55
+TARGET         24   FTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRRR     73
+
+QUERY          56   KMK     58
+TARGET         74   KEK     76
+
+
+Initial pairwise alignment: 3.gca, 5.gca
+QUERY           9   FSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQNHRYKM     57
+TARGET          1   ISPQARAFLEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMRS     49
+
+
+Initial pairwise alignment: 3.gca, 6.gca
+QUERY           4   KRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQNH     53
+TARGET          5   RVRTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNK     54
+
+QUERY          54   RYK     56
+TARGET         55   RCK     57
+
+
+Initial pairwise alignment: 3.gca, 7.gca
+QUERY           3   RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQN     52
+TARGET         10   RKPRTPFTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTETQVKIWFQN     59
+
+QUERY          53   HRYKMKRQAKDKAAQQ     68
+TARGET         60   RRAKAKRLQEAEIEKL     75
+
+
+Initial pairwise alignment: 3.gca, 8.gca
+QUERY           6   RVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQNHRY     55
+TARGET         39   RTVFTDEQLEKLEESFNTSGYLSGSTRAKLAESLGLSDNQVKVWFQNRRT     88
+
+QUERY          56   KMKRQAKDKAAQQ     68
+TARGET         89   KQKKIDSRKFTLQ    101
+
+
+Initial pairwise alignment: 3.gca, 9.gca
+QUERY           3   RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQN     52
+TARGET        109   RRSRTIFTELQLMGLEKKFQKQKYLSTPDRLDLAQSLGLTQLQVKTWYQN    158
+
+QUERY          53   HRYKMKRQA     61
+TARGET        159   RRMKWKKMV    167
+
+
+Initial pairwise alignment: 4.gca, 5.gca
+QUERY          31   ILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRR     72
+TARGET          8   FLEEVFRRKQS...LNSKEKEEVAKKCGITPLQVRVWFINKR     46
+
+
+Initial pairwise alignment: 4.gca, 6.gca
+QUERY          25   TKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRRRK     74
+TARGET          8   TVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRCK     57
+
+QUERY          75   EK     76
+TARGET         58   DK     59
+
+
+Initial pairwise alignment: 4.gca, 7.gca
+QUERY          24   FTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRRR     73
+TARGET         16   FTTQQLLSLEKKFR...EKQYLTIAERAEFSSSLHLTETQVKIWFQNRRA     62
+
+QUERY          74   KEK     76
+TARGET         63   KAK     65
+
+
+Initial pairwise alignment: 4.gca, 8.gca
+QUERY          24   FTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRRR     73
+TARGET         42   FTDEQLEKLEESFN...TSGYLSGSTRAKLAESLGLSDNQVKVWFQNRRT     88
+
+QUERY          74   KEK     76
+TARGET         89   KQK     91
+
+
+Initial pairwise alignment: 4.gca, 9.gca
+QUERY          24   FTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRRR     73
+TARGET        115   FTELQLMGLEKKFQKQK...YLSTPDRLDLAQSLGLTQLQVKTWYQNRRM    161
+
+QUERY          74   KEK     76
+TARGET        162   KWK    164
+
+
+Initial pairwise alignment: 5.gca, 6.gca
+QUERY           7   AFLEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMR     48
+TARGET         16   HTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRCK     57
+
+
+Initial pairwise alignment: 5.gca, 7.gca
+QUERY           1   ISPQARAFLEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMRS     49
+TARGET         16   FTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTETQVKIWFQNRRAKA     64
+
+
+Initial pairwise alignment: 5.gca, 8.gca
+QUERY           9   LEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMRS     49
+TARGET         50   LEESFNTSGYLSGSTRAKLAESLGLSDNQVKVWFQNRRTKQ     90
+
+
+Initial pairwise alignment: 5.gca, 9.gca
+QUERY           9   LEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMR     48
+TARGET        123   LEKKFQKQKYLSTPDRLDLAQSLGLTQLQVKTWYQNRRMK    162
+
+
+Initial pairwise alignment: 6.gca, 7.gca
+QUERY           7   RTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRC     56
+TARGET         13   RTPFTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTETQVKIWFQNRRA     62
+
+QUERY          57   K     57
+TARGET         63   K     63
+
+
+Initial pairwise alignment: 6.gca, 8.gca
+QUERY           7   RTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRC     56
+TARGET         39   RTVFTDEQLEKLEESFNTSGYLSGSTRAKLAESLGLSDNQVKVWFQNRRT     88
+
+QUERY          57   KDKK     60
+TARGET         89   KQKK     92
+
+
+Initial pairwise alignment: 6.gca, 9.gca
+QUERY           2   KTTRVRTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWF     51
+TARGET        107   KPRRSRTIFTELQLMGLEKKFQKQKYLSTPDRLDLAQSLGLTQLQVKTWY    156
+
+QUERY          52   QNKRCKDKKRSI     63
+TARGET        157   QNRRMKWKKMVL    168
+
+
+Initial pairwise alignment: 7.gca, 8.gca
+QUERY          12   PRTPFTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTETQVKIWFQNRR     61
+TARGET         38   PRTVFTDEQLEKLEESFNTSGYLSGSTRAKLAESLGLSDNQVKVWFQNRR     87
+
+QUERY          62   AKAKRLQEAEIE     73
+TARGET         88   TKQKKIDSRKFT     99
+
+
+Initial pairwise alignment: 7.gca, 9.gca
+QUERY           2   TLRKHKPNRKPRTPFTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTET     51
+TARGET        102   TPRQKKP.RRSRTIFTELQLMGLEKKFQKQKYLSTPDRLDLAQSLGLTQL    150
+
+QUERY          52   QVKIWFQNRRAKAKRL.....QEAEIE     73
+TARGET        151   QVKTWYQNRRMKWKKMVLKGGQEAPTK    177
+
+
+Initial pairwise alignment: 8.gca, 9.gca
+QUERY          16   SANGSEKMLEIPAKLDLERPKRPRTVFTDEQLEKLEESFNTSGYLSGSTR     65
+TARGET         92   ASSESETEQPTPRQ...KKPRRSRTIFTELQLMGLEKKFQKQKYLSTPDR    138
+
+QUERY          66   AKLAESLGLSDNQVKVWFQNRRTKQKKI     93
+TARGET        139   LDLAQSLGLTQLQVKTWYQNRRMKWKKM    166
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 1.drct
+PARENT        107   KPRRSRTTFTKEQVRILEEVFRRKQYLDAKEKEQLVEMTGLSPRVIRVWF    156
+CHILD           1   KQRRSRTTFSASQLDELERAFERTQYPDIYTREELAQRTNLTEARIQVWF     50
+
+PARENT        157   QNKRCKLKKQTLK    169
+CHILD          51   QNRRARLRKQHTS     63
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 2.drct
+PARENT        109   RRSRTTFTKEQVRILEEVFRRKQYLDAKEKEQLVEMTGLSPRVIRVWFQN    158
+CHILD           3   KRTRQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQN     52
+
+PARENT        159   KRCKLKK    165
+CHILD          53   RRMKSKK     59
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 3.drct
+PARENT        109   RRSRTTFTKEQVRILEEVFRRKQYLDAKEKEQLVEMTGLSPRVIRVWFQN    158
+CHILD           3   RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQN     52
+
+PARENT        159   KRCKLKKQT    167
+CHILD          53   HRYKMKRQA     61
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 4.drct
+PARENT        115   FTKEQVRILEEVFRRKQ...YLDAKEKEQLVEMTGLSPRVIRVWFQNKRC    161
+CHILD          24   FTKENVRILESWFAKNIENPYLDTKGLENLMKNTSLSRIQIKNWVSNRRR     73
+
+PARENT        162   KLK    164
+CHILD          74   KEK     76
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 5.drct
+PARENT        115   FTKEQVRILEEVFRRKQYLDAKEKEQLVEMTGLSPRVIRVWFQNKRCKL    163
+CHILD           1   ISPQARAFLEEVFRRKQSLNSKEKEEVAKKCGITPLQVRVWFINKRMRS     49
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 6.drct
+PARENT        110   RSRTTFTKEQVRILEEVFRRKQYLDAKEKEQLVEMTGLSPRVIRVWFQNK    159
+CHILD           5   RVRTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNK     54
+
+PARENT        160   RC    161
+CHILD          55   RC     56
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 7.drct
+PARENT        109   RRSRTTFTKEQVRILEEVFRRKQYLDAKEKEQLVEMTGLSPRVIRVWFQN    158
+CHILD          10   RKPRTPFTTQQLLSLEKKFREKQYLTIAERAEFSSSLHLTETQVKIWFQN     59
+
+PARENT        159   KRCKLKKQT    167
+CHILD          60   RRAKAKRLQ     68
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 8.drct
+PARENT         33   LHSCTGSPQARAFPLLSVITRQPTVISHLVPATPGILQELSCHTVTTCYS     82
+CHILD          14   IKSANGSEKMLEIPAKLDLER.............................     34
+
+PARENT         83   AEAPGGEALASSESETEQPTPRQKKPRRSRTTFTKEQVRILEEVFRRKQY    132
+CHILD          35   .........................PKRPRTVFTDEQLEKLEESFNTSGY     59
+
+PARENT        133   LDAKEKEQLVEMTGLSPRVIRVWFQNKRCKLKKQ    166
+CHILD          60   LSGSTRAKLAESLGLSDNQVKVWFQNRRTKQKKI     93
+
+
+Multiple sequence alignment (Iteration 1): 5-4-1-3-2-8-7-9-6.drct, 9.drct
+PARENT          1   MIDEILSKETCDYFEKLSLYSVCPSLVVRPKPLHSCTGSPQARAFPLLSV     50
+CHILD           1   MIDEILSKETCDYFEKLSLYSVCPSLVVRPKPLHSCTGSPSLRAYPLLSV     50
+
+PARENT         51   ITRQPTVISHLVPATPGILQELSCHTVTTCYSAEAPGGEALASSESETEQ    100
+CHILD          51   ITRQPTVISHLVPATPGIAQALSCHQVTEAVSAEAPGGEALASSESETEQ    100
+
+PARENT        101   PTPRQKKPRRSRTTFTKEQVRILEEVFRRKQYLDAKEKEQLVEMTGLSPR    150
+CHILD         101   PTPRQKKPRRSRTIFTELQLMGLEKKFQKQKYLSTPDRLDLAQSLGLTQL    150
+
+PARENT        151   VIRVWFQNKRCKLKKQTLKGGQEAPTKPKGRPKKNSIPTSEEIEAEEKMN    200
+CHILD         151   QVKTWYQNRRMKWKKMVLKGGQEAPTKPKGRPKKNSIPTSEEIEAEEKMN    200
+
+PARENT        201   SQAQGQEQLEPSQGQEELCQAQEPKARDVPLEMAEPPDPPQELPIPSSEP    250
+CHILD         201   SQAQGQEQLEPSQGQEELCEAQEPKARDVPLEMAEPPDPPQELPIPSSEP    250
+
+PARENT        251   PPLS    254
+CHILD         251   PPLS    254
+
+
+//
+
+
+
+  1fjl_A        .......... .......... .......... .......... .......... 
+  1ftz_         .......... .......... .......... .......... .......... 
+  1ftt_         .......... .......... .......... .......... .......... 
+  1mnm_C        .......... .......... .......... .......... .......... 
+  1akh_A        .......... .......... .......... .......... .......... 
+  1bw5_         .......... .......... .......... .......... .......... 
+  HM17_APIME    .......... .......... .......... .......... .......... 
+  HM05_CAEEL    .......... .......... .......... ..IKSANGSE KMLEIPAKLD 
+  BRX2_HUMAN    MIDEILSKET CDYFEKLSLY SVCPSLVVRP KPLHSCTGSP SLRAYPLLSV 
+
+
+  1fjl_A        .......... .......... .......... .......... .......... 
+  1ftz_         .......... .......... .......... .......... .......... 
+  1ftt_         .......... .......... .......... .......... .......... 
+  1mnm_C        .......... .......... .......... .......... .......... 
+  1akh_A        .......... .......... .......... .......... .......... 
+  1bw5_         .......... .......... .......... .......... .......... 
+  HM17_APIME    .......... .......... .......... .......... .......... 
+  HM05_CAEEL    LER....... .......... .......... .......... .......... 
+  BRX2_HUMAN    ITRQPTVISH LVPATPGIAQ ALSCHQVTEA VSAEAPGGEA LASSESETEQ 
+
+
+  1fjl_A        ......KQRR SRTTFSASQL DELERAFERT Q...YPDIYT REELAQRTNL 
+  1ftz_         ........KR TRQTYTRYQT LELEKEFHFN R...YITRRR RIDIANALSL 
+  1ftt_         ........RK RRVLFSQAQV YELERRFKQQ K...YLSAPE REHLASMIHL 
+  1mnm_C        .......... ....FTKENV RILESWFAKN IENPYLDTKG LENLMKNTSL 
+  1akh_A        .......... ....ISPQAR AFLEEVFRRK Q...SLNSKE KEEVAKKCGI 
+  1bw5_         .........R VRTVLNEKQL HTLRTCYAAN P...RPDALM KEQLVEMTGL 
+  HM17_APIME    ........RK PRTPFTTQQL LSLEKKFREK Q...YLTIAE RAEFSSSLHL 
+  HM05_CAEEL    .......PKR PRTVFTDEQL EKLEESFNTS G...YLSGST RAKLAESLGL 
+  BRX2_HUMAN    PTPRQKKPRR SRTIFTELQL MGLEKKFQKQ K...YLSTPD RLDLAQSLGL 
+
+
+  1fjl_A        TEARIQVWFQ NRRARLRKQH TS........ .......... .......... 
+  1ftz_         SERQIKIWFQ NRRMKSKK.. .......... .......... .......... 
+  1ftt_         TPTQVKIWFQ NHRYKMKRQA .......... .......... .......... 
+  1mnm_C        SRIQIKNWVS NRRRKEK... .......... .......... .......... 
+  1akh_A        TPLQVRVWFI NKRMRS.... .......... .......... .......... 
+  1bw5_         SPRVIRVWFQ NKRC...... .......... .......... .......... 
+  HM17_APIME    TETQVKIWFQ NRRAKAKRLQ .......... .......... .......... 
+  HM05_CAEEL    SDNQVKVWFQ NRRTKQKKI. .......... .......... .......... 
+  BRX2_HUMAN    TQLQVKTWYQ NRRMKWKKMV LKGGQEAPTK PKGRPKKNSI PTSEEIEAEE 
+
+
+  1fjl_A        .......... .......... .......... .......... .......... 
+  1ftz_         .......... .......... .......... .......... .......... 
+  1ftt_         .......... .......... .......... .......... .......... 
+  1mnm_C        .......... .......... .......... .......... .......... 
+  1akh_A        .......... .......... .......... .......... .......... 
+  1bw5_         .......... .......... .......... .......... .......... 
+  HM17_APIME    .......... .......... .......... .......... .......... 
+  HM05_CAEEL    .......... .......... .......... .......... .......... 
+  BRX2_HUMAN    KMNSQAQGQE QLEPSQGQEE LCEAQEPKAR DVPLEMAEPP DPPQELPIPS 
+
+
+  1fjl_A        .......                                                
+  1ftz_         .......                                                
+  1ftt_         .......                                                
+  1mnm_C        .......                                                
+  1akh_A        .......                                                
+  1bw5_         .......                                                
+  HM17_APIME    .......                                                
+  HM05_CAEEL    .......                                                
+  BRX2_HUMAN    SEPPPLS                                                
+
+

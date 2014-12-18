@@ -1,0 +1,6 @@
+1havA_1havA 3grs_2tmdA
+3grs_1nhp 1havA_1havA
+3grs_1nhp 3grs_2tmdA
+3grs_3grs 1havA_1havA
+3grs_3grs 3grs_1nhp
+3grs_3grs 3grs_2tmdA

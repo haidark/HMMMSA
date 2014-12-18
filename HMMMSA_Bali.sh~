@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#HOME=/bach1/home/khanh2
+HMMSUMPATH=$HOME/HMMSUM
+tfaFiles=( $HMMSUMPATH/bb3_release/RV12/*.tfa )
+outDIR=$HMMSUMPATH/HMM_RV12
+#make the directory if it does not exist
+mkdir $outDIR
+for tfaFile in "${tfaFiles[@]}"
+do
+  echo "processing $tfaFile"
+  #parse the filename from the path
+  fileName="${tfaFile##*/}"
+  name="${fileName%.*}"
+  outFile="$outDIR/$name.msa"
+  #echo $outFile
+  #run HMMMSA
+  $HMMSUMPATH/xHMMMSA2 $tfaFile $outFile
+done

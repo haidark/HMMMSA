@@ -1,0 +1,604 @@
+Initial pairwise alignment: 1.gca, 2.gca
+QUERY           3   MITDECINCDVCEPECPNGAISQGDETYVIEPSLCTECVGHYETSQCVEV     52
+TARGET          5   IIASQCTSCSACEPLCPNVAISEKGGNFVIEAAKCSECVGHFDEPQCAAA     54
+
+QUERY          53   CPVD     56
+TARGET         55   CPVD     58
+
+
+Initial pairwise alignment: 1.gca, 3.gca
+QUERY           7   ECINCDVCEPECPNGAISQGDETYVIEPSLCTECVGHYETSQCVEVCPVD     56
+TARGET          9   ECTVCGDCKPVCPTGSIVLQGGIYVIDADSCNECADLGEP.RCLGVCPVD     57
+
+QUERY          57   CIIK     60
+TARGET         58   FCIQ     61
+
+
+Initial pairwise alignment: 1.gca, 4.gca
+QUERY           1   ALMITDECINCDVCEPECPNGAISQGDETYVIEPSLCTECVGHYETSQCV     50
+TARGET          2   ALKIVESCVNCWACVDVCPSEAISLAGPHFEISASKCTECDGDYAEKQCA     51
+
+QUERY          51   EVCPVDCII     59
+TARGET         52   SICPVEGAI     60
+
+
+Initial pairwise alignment: 1.gca, 5.gca
+QUERY           1   ALMITDECI..NCDVCEPECPNGAISQGDETYVIEPSLCTECVGHYETSQ     48
+TARGET          1   AYVITEPCIGTKDASCVEVCPVDCIHEGEDQYYIDPDVCIDC......GA     44
+
+QUERY          49   CVEVCPVDCIIKDPSHEETEDELRAKY     75
+TARGET         45   CEAVCPVSAIY....HEDFVPEEWKSY     67
+
+
+Initial pairwise alignment: 1.gca, 6.gca
+QUERY           7   ECINCDVCEPECPNGAI..SQGDETYVIEPSLCTECVGHYETSQCVEVCP     54
+TARGET          8   KCIGCDTCSQYCPTAAIFGEMGEPHSIPHIEACINC......GQCLTHCP     51
+
+QUERY          55   VDCIIKDPSH     64
+TARGET         52   ENAIYEAQSW     61
+
+
+Initial pairwise alignment: 1.gca, 7.gca
+QUERY          11   CDVCEPECPNGAISQGDETYVIEPSLCTECVGHYETSQCVEVCPVDCIIK     60
+TARGET         20   CGACVGMCPTDAIWLDETVIKIHEEKCIEC......GFCIVGCPTGAITA     63
+
+QUERY          61   DPSH     64
+TARGET         64   EWFH     67
+
+
+Initial pairwise alignment: 1.gca, 8.gca
+QUERY           1   ALMITDECINCDVCEPECPNGAISQGDETYVIEPSLCTECVGHYETSQCV     50
+TARGET          5   TIVNIDDCVACGACSGTCPQSVLEVNDHVEIKNPDDCIGC......GACV     48
+
+QUERY          51   EVCP     54
+TARGET         49   DACP     52
+
+
+Initial pairwise alignment: 1.gca, 9.gca
+QUERY           1   ALMITDECINCDVCEPECPNGAISQGDE.TYVIEPSLCTECVGHYETSQC     49
+TARGET          3   AKVNVDLCTGCGSCVDECPAAAISLNDDGIATVDESECLDC......GSC     46
+
+QUERY          50   VEVCPVDCII     59
+TARGET         47   EDACPNNAIT     56
+
+
+Initial pairwise alignment: 1.gca, 10.gca
+QUERY          28   ETYVIEPSLCTECVGHYETSQCVEVCPVDCI     58
+TARGET          1   MAVTIDYSLCKG....AECAECVNNCPMEVF     27
+
+
+Initial pairwise alignment: 1.gca, 11.gca
+QUERY          32   IEPSLCTECVGHYETSQ...............................CV     50
+TARGET         40   QEAFLILELFGSKETIEKALNYLSKFGEVEEISKVIKRDLEKCVHCGCCI     89
+
+QUERY          51   EVCPVDCIIKD     61
+TARGET         90   TQCPINVIYMD    100
+
+
+Initial pairwise alignment: 2.gca, 3.gca
+QUERY           1   MPFKIIASQCTSCSACEPLCPNVAISEKGGNFVIEAAKCSECVGHFDEPQ     50
+TARGET          1   MAMAIDGYECTVCGDCKPVCPTGSIVLQGGIYVIDADSCNECA.DLGEPR     49
+
+QUERY          51   CAAACPVD     58
+TARGET         50   CLGVCPVD     57
+
+
+Initial pairwise alignment: 2.gca, 4.gca
+QUERY           1   MPFKIIASQCTSCSACEPLCPNVAISEKGGNFVIEAAKCSECVGHFDEPQ     50
+TARGET          1   MALKIVES.CVNCWACVDVCPSEAISLAGPHFEISASKCTECDGDYAEKQ     49
+
+QUERY          51   CAAACPVDNTCVV     63
+TARGET         50   CASICPVEGAILL     62
+
+
+Initial pairwise alignment: 2.gca, 5.gca
+QUERY           5   IIASQC..TSCSACEPLCPNVAISEKGGNFVIEAAKCSECVGHFDEPQCA     52
+TARGET          3   VITEPCIGTKDASCVEVCPVDCIHEGEDQYYIDPDVCIDC......GACE     46
+
+QUERY          53   AACPV     57
+TARGET         47   AVCPV     51
+
+
+Initial pairwise alignment: 2.gca, 6.gca
+QUERY           3   FKIIASQCTSCSACEPLCPNVAISEKGGN.....FVIEAAKCSECVGHFD     47
+TARGET          2   VQIDEAKCIGCDTCSQYCPTAAIFGEMGEPHSIPHIEACINCGQCLTHCP     51
+
+QUERY          48   E     48
+TARGET         52   E     52
+
+
+Initial pairwise alignment: 2.gca, 7.gca
+QUERY          10   CTSCSACEPLCPNVAISEKGGNFVIEAAKCSEC     42
+TARGET         17   CNYCGACVGMCPTDAIWLDETVIKIHEEKCIEC     49
+
+
+Initial pairwise alignment: 2.gca, 8.gca
+QUERY          10   CTSCSACEPLCPNVAISEKGGNFVIEAAKCSECVGHFDEPQCAAACPV     57
+TARGET         12   CVACGACSGTCPQSVLEVND...HVEIKNPDDCIGCG...ACVDACPQ     53
+
+
+Initial pairwise alignment: 2.gca, 9.gca
+QUERY           1   MPFKIIASQCTSCSACEPLCPNVAISEKGGNFVIEAAKCSECVGHFDEPQ     50
+TARGET          1   MVAKVNVDLCTGCGSCVDECPAAAISLN..DDGIATVDESECL...DCGS     45
+
+QUERY          51   CAAACPVDNTCVV     63
+TARGET         46   CEDACPNNAITIE     58
+
+
+Initial pairwise alignment: 2.gca, 10.gca
+QUERY          10   CTSCSACEPLCPNVAI     25
+TARGET         42   CTYCGVCEDVCPTGAV     57
+
+
+Initial pairwise alignment: 2.gca, 11.gca
+QUERY           7   ASQCTSCSACEPLCP.NVAISEKGGNFVIEAAKCSECVGHFDEPQCAAAC     55
+TARGET         79   LEKCVHCGCCITQCPINVIYMDEDYNVVFKEEDCVGCK......NCLKAC    122
+
+QUERY          56   PV     57
+TARGET        123   PF    124
+
+
+Initial pairwise alignment: 3.gca, 4.gca
+QUERY           9   ECTVCGDCKPVCPTGSIVLQGGIYVIDADSCNEC.ADLGEPRCLGVCPVD     57
+TARGET          8   SCVNCWACVDVCPSEAISLAGPHFEISASKCTECDGDYAEKQCASICPVE     57
+
+QUERY          58   FCIQPLD     64
+TARGET         58   GAILLAD     64
+
+
+Initial pairwise alignment: 3.gca, 5.gca
+QUERY          16   CKPVCPTGSIVLQGGIYVIDADSCNECADLGEPRCLGVCPVDFCIQ     61
+TARGET         16   CVEVCPVDCIHEGEDQYYIDPDVCIDCG.....ACEAVCPVSAIYH     56
+
+
+Initial pairwise alignment: 3.gca, 6.gca
+QUERY           5   IDGYECTVCGDCKPVCPTGSIVLQGGIYVIDADSCNECADLGEP......     48
+TARGET          4   IDEAKCIGCDTCSQYCPTAAIFGE................MGEPHSIPHI     37
+
+QUERY          49   .......RCLGVCPVDFCIQ     61
+TARGET         38   EACINCGQCLTHCPENAIYE     57
+
+
+Initial pairwise alignment: 3.gca, 7.gca
+QUERY           9   ECTVCGDCKPVCPTGSIVLQGGIYVIDADSCNECADLGEPRCLGVCPVDF     58
+TARGET         16   LCNYCGACVGMCPTDAIWLDETVIKIHEEKCIECG..............F     51
+
+QUERY          59   CI     60
+TARGET         52   CI     53
+
+
+Initial pairwise alignment: 3.gca, 8.gca
+QUERY          10   CTVCGDCKPVCPTGSIVLQ     28
+TARGET         41   CIGCGACVDACPQGVLKVE     59
+
+
+Initial pairwise alignment: 3.gca, 9.gca
+QUERY          10   CTVCGDCKPVCPTGSIVLQG.GIYVIDADSCNECADLGEPRCLGVCP     55
+TARGET         10   CTGCGSCVDECPAAAISLNDDGIATVDESECLDCGS.....CEDACP     51
+
+
+Initial pairwise alignment: 3.gca, 10.gca
+QUERY          10   CTVCGDCKPVCPTGSIVLQ     28
+TARGET         42   CTYCGVCEDVCPTGAVKVE     60
+
+
+Initial pairwise alignment: 3.gca, 11.gca
+QUERY           9   ECTVCGDCKPVCPTGSIVLQGGIYVIDADS.....CNECADLGEPRCLGV     53
+TARGET         81   KCVHCGCCITQCP.........INVIYMDEDYNVVFKEEDCVGCKNCLKA    121
+
+QUERY          54   CPV     56
+TARGET        122   CPF    124
+
+
+Initial pairwise alignment: 4.gca, 5.gca
+QUERY           5   IVESCVNC..WACVDVCPSEAISLAGPHFEISASKCTECDGDYAEKQCAS     52
+TARGET          4   ITEPCIGTKDASCVEVCPVDCIHEGEDQYYIDPDVCIDC......GACEA     47
+
+QUERY          53   ICPVEGAILLADGTP     67
+TARGET         48   VCPVS.AIYHEDFVP     61
+
+
+Initial pairwise alignment: 4.gca, 6.gca
+QUERY           9   CVNCWACVDVCPSEAI..SLAGPHFEISASKCTECDGDYAEKQCASICPV     56
+TARGET          9   CIGCDTCSQYCPTAAIFGEMGEPHSIPHIEACINC......GQCLTHCP.     51
+
+QUERY          57   EGAILLADG....................TPA..........NPPGSLTG     76
+TARGET         52   ENAIYEAQSWVPEVEKKLKDGKVKCIAMPAPAVRYALGDAFGMPVGSVT.    100
+
+QUERY          77   IPPERLAEAMREIQA     91
+TARGET        101   .....TGKMLAALQK    110
+
+
+Initial pairwise alignment: 4.gca, 7.gca
+QUERY          12   CWACVDVCPSEAISLAGPHFEISASKCTEC     41
+TARGET         20   CGACVGMCPTDAIWLDETVIKIHEEKCIEC     49
+
+
+Initial pairwise alignment: 4.gca, 8.gca
+QUERY           9   CVNCWACVDVCPSEAISLA     27
+TARGET         41   CIGCGACVDACPQGVLKVE     59
+
+
+Initial pairwise alignment: 4.gca, 9.gca
+QUERY           6   VESCVNCWACVDVCPSEAISL.....AGPHFEISASKCTECDGDYAEKQC     50
+TARGET          7   VDLCTGCGSCVDECPAAAISLNDDGIA....TVDESECLDC......GSC     46
+
+QUERY          51   ASICP     55
+TARGET         47   EDACP     51
+
+
+Initial pairwise alignment: 4.gca, 10.gca
+QUERY           1   MALKIVESCVN...CWACVDVCPSEAISLAGPHFEIS.ASKCTECDGDYA     46
+TARGET          1   MAVTIDYSLCKGAECAECVNNCPMEVFEIEGDKVVVARPDDCTYC.....     45
+
+QUERY          47   EKQCASICPV     56
+TARGET         46   .GVCEDVCPT     54
+
+
+Initial pairwise alignment: 4.gca, 11.gca
+QUERY           6   VESCVNCWACVDVCPSEAISLAGPHFEISASK.CTECDGDYAEKQCASIC     54
+TARGET         79   LEKCVHCGCCITQCPINVIYMDEDYNVVFKEEDCVGC......KNCLKAC    122
+
+QUERY          55   PVEGAILL     62
+TARGET        123   PFKAIEIF    130
+
+
+Initial pairwise alignment: 5.gca, 6.gca
+QUERY           8   CIGTKDASCVEVCPVDCIH..EGEDQYYIDPDVCIDCGACEAVCPVSAIY     55
+TARGET          9   CIGC..DTCSQYCPTAAIFGEMGEPHSIPHIEACINCGQCLTHCPENAIY     56
+
+QUERY          56   .HEDFVPE     62
+TARGET         57   EAQSWVPE     64
+
+
+Initial pairwise alignment: 5.gca, 7.gca
+QUERY          15   SCVEVCPVDCIHEGEDQYYIDPDVCIDCGACEAVCPVSAIYHEDF     59
+TARGET         22   ACVGMCPTDAIWLDETVIKIHEEKCIECGFCIVGCPTGAITAEWF     66
+
+
+Initial pairwise alignment: 5.gca, 8.gca
+QUERY          15   SCVEVCPVDCIHEGEDQYYIDPDVCIDCGACEAVCPVSAIYHE     57
+TARGET         17   ACSGTCPQSVLEVNDHVEIKNPDDCIGCGACVDACPQGVLKVE     59
+
+
+Initial pairwise alignment: 5.gca, 9.gca
+QUERY          15   SCVEVCPVDCIHEGED.QYYIDPDVCIDCGACEAVCPVSAIYHE     57
+TARGET         15   SCVDECPAAAISLNDDGIATVDESECLDCGSCEDACPNNAITIE     58
+
+
+Initial pairwise alignment: 5.gca, 10.gca
+QUERY           1   AYVITEPCIGTKDASCVEVCPVDCIHEGEDQYYID.PDVCIDCGACEAVC     49
+TARGET          3   VTIDYSLCKGAECAECVNNCPMEVFEIEGDKVVVARPDDCTYCGVCEDVC     52
+
+QUERY          50   PVSAIYHE     57
+TARGET         53   PTGAVKVE     60
+
+
+Initial pairwise alignment: 5.gca, 11.gca
+QUERY          16   CVEVCPVDCIHEGEDQ.YYIDPDVCIDCGACEAVCPVSAI     54
+TARGET         88   CITQCPINVIYMDEDYNVVFKEEDCVGCKNCLKACPFKAI    127
+
+
+Initial pairwise alignment: 6.gca, 7.gca
+QUERY           2   VQIDEAKCIGCDTCSQYCPTAAIFGEMGEPHSIPHIEACINCGQCLTHCP     51
+TARGET         10   MDVDRNLCNYCGACVGMCPTDAIW..LDETVIKIHEEKCIECGFCIVGCP     57
+
+QUERY          52   ENAIYEAQ     59
+TARGET         58   TGAITAEW     65
+
+
+Initial pairwise alignment: 6.gca, 8.gca
+QUERY           9   CIGCDTCSQYCPTAAIFGEMGEPHSIPHIEACINCGQCLTHCPE     52
+TARGET         12   CVACGACSGTCPQSVL..EVNDHVEIKNPDDCIGCGACVDACPQ     53
+
+
+Initial pairwise alignment: 6.gca, 9.gca
+QUERY           9   CIGCDTCSQYCPTAAI......FGEMGEPHSIPHIEACINCGQCLTHCPE     52
+TARGET         10   CTGCGSCVDECPAAAISLNDDGIATVDE.......SECLDCGSCEDACPN     52
+
+QUERY          53   NAIY     56
+TARGET         53   NAIT     56
+
+
+Initial pairwise alignment: 6.gca, 10.gca
+QUERY           2   VQIDEAKCIG..CDTCSQYCPTAAIFGEMGEPHSIPHIEA..........     39
+TARGET          3   VTIDYSLCKGAECAECVNNCPMEVF...........EIEGDKVVVARPDD     41
+
+QUERY          40   CINCGQCLTHCPENAI     55
+TARGET         42   CTYCGVCEDVCPTGAV     57
+
+
+Initial pairwise alignment: 6.gca, 11.gca
+QUERY           2   VQIDEAKCI.....GCDTCSQYCPTAAIFGEMGEPHSIPH..IEACINCG     44
+TARGET         37   VEPQEAFLILELFGSKETIEKALNYLSKFGEVEEISKVIKRDLEKCVHCG     86
+
+QUERY          45   QCLTHCPENAIYEAQSWVPEVEKKLKDGKVKCIAMPAPAVRYALGDAFGM     94
+TARGET         87   CCITQCPINVIYMDEDYN................................    104
+
+QUERY          95   PVGSVTTGKMLAALQKLGFAHCWDTEFTADVTIWE    129
+TARGET        105   ........VVFKEEDCVGCKNCLKACPFKAIEIFE    131
+
+
+Initial pairwise alignment: 7.gca, 8.gca
+QUERY          17   CNYCGACVGMCPTDAIWLDETVIKIHEEKCIECGFCIVGCPTGAITAE     64
+TARGET         12   CVACGACSGTCPQSVLEVNDHVEIKNPDDCIGCGACVDACPQGVLKVE     59
+
+
+Initial pairwise alignment: 7.gca, 9.gca
+QUERY          16   LCNYCGACVGMCPTDAIWL.DETVIKIHEEKCIECGFCIVGCPTGAITAE     64
+TARGET          9   LCTGCGSCVDECPAAAISLNDDGIATVDESECLDCGSCEDACPNNAITIE     58
+
+
+Initial pairwise alignment: 7.gca, 10.gca
+QUERY           8   TEMDVDRNLCN..YCGACVGMCPTDAIWLD.ETVIKIHEEKCIECGFCIV     54
+TARGET          1   MAVTIDYSLCKGAECAECVNNCPMEVFEIEGDKVVVARPDDCTYCGVCED     50
+
+QUERY          55   GCPTGAITAE     64
+TARGET         51   VCPTGAVKVE     60
+
+
+Initial pairwise alignment: 7.gca, 11.gca
+QUERY          17   CNYCGACVGMCPTDAIWLDETVIKIHEEK.CIECGFCIVGCPTGAIT     62
+TARGET         82   CVHCGCCITQCPINVIYMDEDYNVVFKEEDCVGCKNCLKACPFKAIE    128
+
+
+Initial pairwise alignment: 8.gca, 9.gca
+QUERY           4   ITIVNIDDCVACGACSGTCPQSVLEVNDH.VEIKNPDDCIGCGACVDACP     52
+TARGET          2   VAKVNVDLCTGCGSCVDECPAAAISLNDDGIATVDESECLDCGSCEDACP     51
+
+QUERY          53   QGVLKVE     59
+TARGET         52   NNAITIE     58
+
+
+Initial pairwise alignment: 8.gca, 10.gca
+QUERY          13   VACGACSGTCPQSVLEVN.DHVEIKNPDDCIGCGACVDACPQGVLKVE     59
+TARGET         13   AECAECVNNCPMEVFEIEGDKVVVARPDDCTYCGVCEDVCPTGAVKVE     60
+
+
+Initial pairwise alignment: 8.gca, 11.gca
+QUERY          12   CVACGACSGTCPQSVLEV.NDHVEIKNPDDCIGCGACVDACPQGVLKV     58
+TARGET         82   CVHCGCCITQCPINVIYMDEDYNVVFKEEDCVGCKNCLKACPFKAIEI    129
+
+
+Initial pairwise alignment: 9.gca, 10.gca
+QUERY           1   MVAKVNVDLCTG..CGSCVDECPAAAISLNDDGIATVDESECLDCGSCED     48
+TARGET          1   MAVTIDYSLCKGAECAECVNNCPMEVFEIEGDKVVVARPDDCTYCGVCED     50
+
+QUERY          49   ACPNNAITIE     58
+TARGET         51   VCPTGAVKVE     60
+
+
+Initial pairwise alignment: 9.gca, 11.gca
+QUERY          10   CTGCGSCVDECPAAAISLNDDGIATVDESECLDCGSCEDACPNNAITI     57
+TARGET         82   CVHCGCCITQCPINVIYMDEDYNVVFKEEDCVGCKNCLKACPFKAIEI    129
+
+
+Initial pairwise alignment: 10.gca, 11.gca
+QUERY           6   DYSLCKGAECAECVNNCPMEVFEIEGDKVVVARPDDCTYCGVCEDVCPTG     55
+TARGET         78   DLEKC..VHCGCCITQCPINVIYMDEDYNVVFKEEDCVGCKNCLKACPFK    125
+
+QUERY          56   AVKV     59
+TARGET        126   AIEI    129
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 1.drct
+PARENT          8   KCIGCDACSGVCPQEAFFGEMGEPHSIPHLEKCVHC......GCCITQCP     51
+CHILD           7   ECINCDVCEPECPNGAI..SQGDETYVIEPSLCTECVGHYETSQCVEVCP     54
+
+PARENT         52   INVIY     56
+CHILD          55   VDCII     59
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 2.drct
+PARENT          4   IDEAKCIGCDACSGVCPQEAFFGEMGEPHSIPHLEKCVHCG......CCI     47
+CHILD           5   IIASQCTSCSACEPLCPNVAISEKGGN..FVIEAAKCSECVGHFDEPQCA     52
+
+PARENT         48   TQCPI     52
+CHILD          53   AACPV     57
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 3.drct
+PARENT         39   KCVHCGCCITQCPINVIYE     57
+CHILD           9   ECTVCGDCKPVCPTGSIVL     27
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 4.drct
+PARENT          7   AKCIGCDACSGVCPQEAFFGEMGEPHSIPHLEKCVHC......GCCITQC     50
+CHILD           7   ESCVNCWACVDVCPSEAI..SLAGPHFEISASKCTECDGDYAEKQCASIC     54
+
+PARENT         51   PINVIYEDEDYVPEVEKKLKDGKVKCIAMPAPAVRYALGDAFGMPVGSVT    100
+CHILD          55   PVEGAI...................LLADGTPA..........NPPGSLT     75
+
+PARENT        101   ......TGKMLAALQK    110
+CHILD          76   GIPPERLAEAMREIQA     91
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 5.drct
+PARENT         14   ACSGVCPQEAFFGEMGEPHSIPHLEKCVHCGCCITQCPINVIYEDEDYVP     63
+CHILD          15   SCVEVCPVDCIH..EGEDQYYIDPDVCIDCGACEAVCPVSAIYH.EDFVP     61
+
+PARENT         64   EVEKKLKDGKVKCIAMPAPAVRYALGDAFGMPVGSVTTGKMLAALQK    110
+CHILD          62   E......................................EWKSYIQK     70
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 6.drct
+PARENT          1   FVQIDEAKCIGCDACSGVCPQEAFFGEMGEPHSIPHLEKCVHCGCCITQC     50
+CHILD           1   FVQIDEAKCIGCDTCSQYCPTAAIFGEMGEPHSIPHIEACINCGQCLTHC     50
+
+PARENT         51   PINVIYEDEDYVPEVEKKLKDGKVKCIAMPAPAVRYALGDAFGMPVGSVT    100
+CHILD          51   PENAIYEAQSWVPEVEKKLKDGKVKCIAMPAPAVRYALGDAFGMPVGSVT    100
+
+PARENT        101   TGKMLAALQKLGFAHCWDTEFTADVVFKEEGSEFVERLTKKSDMPLPQFT    150
+CHILD         101   TGKMLAALQKLGFAHCWDTEFTADVTIWEEGSEFVERLTKKSDMPLPQFT    150
+
+PARENT        151   SCCPGWQKYAETYYPELLPHFSTCKSPIGMNGALAKTYGAERMKYDPKQV    200
+CHILD         151   SCCPGWQKYAETYYPELLPHFSTCKSPIGMNGALAKTYGAERMKYDPKQV    200
+
+PARENT        201   YTVSIMPCIAKKYEGLRPELKSSGMRDIDATLTTRELAYMIKKAGIDFAK    250
+CHILD         201   YTVSIMPCIAKKYEGLRPELKSSGMRDIDATLTTRELAYMIKKAGIDFAK    250
+
+PARENT        251   LPDGKRDSLMGESTGGATIFGVTGGVMEAALRFAYEAVTGKKPDSWDFKA    300
+CHILD         251   LPDGKRDSLMGESTGGATIFGVTGGVMEAALRFAYEAVTGKKPDSWDFKA    300
+
+PARENT        301   VRGLDGIKEATVNVGGTDVKVAVVHGAKRFKQVCDDVKAGKSPYHFIEIF    350
+CHILD         301   VRGLDGIKEATVNVGGTDVKVAVVHGAKRFKQVCDDVKAGKSPYHFIEYM    350
+
+PARENT        351   ACPGGCVCGGGQPVMPGVLEA    371
+CHILD         351   ACPGGCVCGGGQPVMPGVLEA    371
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 7.drct
+PARENT          9   CIGCDACSGVCPQEAFFGEMGEPHSIPHLEKCVHCGCCITQCPINVIYED     58
+CHILD          17   CNYCGACVGMCPTDAIW..LDETVIKIHEEKCIECGFCIVGCPTGAITAE     64
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 8.drct
+PARENT          9   CIGCDACSGVCPQEAFFGEMGEPHSIPHLEKCVHCGCCITQCPINVI     55
+CHILD          12   CVACGACSGTCPQSVL..EVNDHVEIKNPDDCIGCGACVDACPQGVL     56
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 9.drct
+PARENT          9   CIGCDACSGVCPQEAF......FGEMGEPHSIPHLEKCVHCGCCITQCPI     52
+CHILD          10   CTGCGSCVDECPAAAISLNDDGIATVDE.......SECLDCGSCEDACPN     52
+
+PARENT         53   NVIYED     58
+CHILD          53   NAITIE     58
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 10.drct
+PARENT          2   VQIDEAKC..IGCDACSGVCPQEAFFGEMGEPHSIPHLEKCVHCGCCITQ     49
+CHILD           3   VTIDYSLCKGAECAECVNNCPMEVFEIE.GDKVVVARPDDCTYCGVCEDV     51
+
+PARENT         50   CPINVI     55
+CHILD          52   CPTGAV     57
+
+
+Multiple sequence alignment (Iteration 1): 8-3-10-2-4-5-7-9-6-11.drct, 11.drct
+PARENT         18   VCPQEAF.....................FGEMGEPHSIPH..LEKCVHCG     44
+CHILD          37   VEPQEAFLILELFGSKETIEKALNYLSKFGEVEEISKVIKRDLEKCVHCG     86
+
+PARENT         45   CCITQCPINVIYEDEDY     61
+CHILD          87   CCITQCPINVIYMDEDY    103
+
+
+//
+
+
+
+  1blu_         .......EC. .INCDVCEPE CPNGAI.... .......... .........S 
+  FDXN_BRAJA    ...IIASQC. .TSCSACEPL CPNVAI.... .......... .......SEK 
+  FDXN_AZOCH    .......... .......... .......... .......... .......... 
+  FERN_AZOVI    ......ESC. .VNCWACVDV CPSEAI.... .......... .........S 
+  1bc6_         .......... .....SCVEV CPVDCI.... .......... .......H.. 
+  1e08_A        FVQIDEAKC. .IGCDTCSQY CPTAAI.... .......... .......FGE 
+  FER2_THEAC    ........C. .NYCGACVGM CPTDAI.... .......... .......W.. 
+  FER_ENTHI     ........C. .VACGACSGT CPQSVL.... .......... .........E 
+  FER_METTE     ........C. .TGCGSCVDE CPAAAISLND DG........ .......IAT 
+  FER4_METJA    .VTIDYSLCK GAECAECVNN CPMEVF.... .......... .......EIE 
+  FER2_METJA    .......... .........V EPQEAFLILE LFGSKETIEK ALNYLSKFGE 
+
+
+  1blu_         QGDETYVIE. .PSLCTECVG HYETS..... .QCVEVCPVD CII....... 
+  FDXN_BRAJA    GGN..FVIE. .AAKCSEC.. ....VGHFDE PQCAAACPV. .......... 
+  FDXN_AZOCH    .......... ...ECTVC.. ....G..... .DCKPVCPTG SIVL...... 
+  FERN_AZOVI    LAGPHFEIS. .ASKCTECDG DYAEK..... .QCASICPVE GAI....... 
+  1bc6_         EGEDQYYID. .PDVCIDC.. ....G..... .ACEAVCPVS AIYH.EDFVP 
+  1e08_A        MGEPHSIPH. .IEACINC.. ....G..... .QCLTHCPEN AIYEAQSWVP 
+  FER2_THEAC    LDETVIKIH. .EEKCIEC.. ....G..... .FCIVGCPTG AITAE..... 
+  FER_ENTHI     VNDHVEIKN. .PDDCIGC.. ....G..... .ACVDACPQG VL........ 
+  FER_METTE     VDE....... ..SECLDC.. ....G..... .SCEDACPNN AITIE..... 
+  FER4_METJA    .GDKVVVAR. .PDDCTYC.. ....G..... .VCEDVCPTG AV........ 
+  FER2_METJA    VEEISKVIKR DLEKCVHC.. ....G..... .CCITQCPIN VIYMDEDY.. 
+
+
+  1blu_         .......... .......... .......... .......... .......... 
+  FDXN_BRAJA    .......... .......... .......... .......... .......... 
+  FDXN_AZOCH    .......... .......... .......... .......... .......... 
+  FERN_AZOVI    .......... ..LLADGTPA .......... NPPGSLTGIP PERLAEAMRE 
+  1bc6_         E......... .......... .......... .......... .....EWKSY 
+  1e08_A        EVEKKLKDGK VKCIAMPAPA VRYALGDAFG MPVGSVT... ...TGKMLAA 
+  FER2_THEAC    .......... .......... .......... .......... .......... 
+  FER_ENTHI     .......... .......... .......... .......... .......... 
+  FER_METTE     .......... .......... .......... .......... .......... 
+  FER4_METJA    .......... .......... .......... .......... .......... 
+  FER2_METJA    .......... .......... .......... .......... .......... 
+
+
+  1blu_         .......... .......... .......... .......... .......... 
+  FDXN_BRAJA    .......... .......... .......... .......... .......... 
+  FDXN_AZOCH    .......... .......... .......... .......... .......... 
+  FERN_AZOVI    IQA....... .......... .......... .......... .......... 
+  1bc6_         IQK....... .......... .......... .......... .......... 
+  1e08_A        LQKLGFAHCW DTEFTADVTI WEEGSEFVER LTKKSDMPLP QFTSCCPGWQ 
+  FER2_THEAC    .......... .......... .......... .......... .......... 
+  FER_ENTHI     .......... .......... .......... .......... .......... 
+  FER_METTE     .......... .......... .......... .......... .......... 
+  FER4_METJA    .......... .......... .......... .......... .......... 
+  FER2_METJA    .......... .......... .......... .......... .......... 
+
+
+  1blu_         .......... .......... .......... .......... .......... 
+  FDXN_BRAJA    .......... .......... .......... .......... .......... 
+  FDXN_AZOCH    .......... .......... .......... .......... .......... 
+  FERN_AZOVI    .......... .......... .......... .......... .......... 
+  1bc6_         .......... .......... .......... .......... .......... 
+  1e08_A        KYAETYYPEL LPHFSTCKSP IGMNGALAKT YGAERMKYDP KQVYTVSIMP 
+  FER2_THEAC    .......... .......... .......... .......... .......... 
+  FER_ENTHI     .......... .......... .......... .......... .......... 
+  FER_METTE     .......... .......... .......... .......... .......... 
+  FER4_METJA    .......... .......... .......... .......... .......... 
+  FER2_METJA    .......... .......... .......... .......... .......... 
+
+
+  1blu_         .......... .......... .......... .......... .......... 
+  FDXN_BRAJA    .......... .......... .......... .......... .......... 
+  FDXN_AZOCH    .......... .......... .......... .......... .......... 
+  FERN_AZOVI    .......... .......... .......... .......... .......... 
+  1bc6_         .......... .......... .......... .......... .......... 
+  1e08_A        CIAKKYEGLR PELKSSGMRD IDATLTTREL AYMIKKAGID FAKLPDGKRD 
+  FER2_THEAC    .......... .......... .......... .......... .......... 
+  FER_ENTHI     .......... .......... .......... .......... .......... 
+  FER_METTE     .......... .......... .......... .......... .......... 
+  FER4_METJA    .......... .......... .......... .......... .......... 
+  FER2_METJA    .......... .......... .......... .......... .......... 
+
+
+  1blu_         .......... .......... .......... .......... .......... 
+  FDXN_BRAJA    .......... .......... .......... .......... .......... 
+  FDXN_AZOCH    .......... .......... .......... .......... .......... 
+  FERN_AZOVI    .......... .......... .......... .......... .......... 
+  1bc6_         .......... .......... .......... .......... .......... 
+  1e08_A        SLMGESTGGA TIFGVTGGVM EAALRFAYEA VTGKKPDSWD FKAVRGLDGI 
+  FER2_THEAC    .......... .......... .......... .......... .......... 
+  FER_ENTHI     .......... .......... .......... .......... .......... 
+  FER_METTE     .......... .......... .......... .......... .......... 
+  FER4_METJA    .......... .......... .......... .......... .......... 
+  FER2_METJA    .......... .......... .......... .......... .......... 
+
+
+  1blu_         .......... .......... .......... .......... .......... 
+  FDXN_BRAJA    .......... .......... .......... .......... .......... 
+  FDXN_AZOCH    .......... .......... .......... .......... .......... 
+  FERN_AZOVI    .......... .......... .......... .......... .......... 
+  1bc6_         .......... .......... .......... .......... .......... 
+  1e08_A        KEATVNVGGT DVKVAVVHGA KRFKQVCDDV KAGKSPYHFI EYMACPGGCV 
+  FER2_THEAC    .......... .......... .......... .......... .......... 
+  FER_ENTHI     .......... .......... .......... .......... .......... 
+  FER_METTE     .......... .......... .......... .......... .......... 
+  FER4_METJA    .......... .......... .......... .......... .......... 
+  FER2_METJA    .......... .......... .......... .......... .......... 
+
+
+  1blu_         .......... ....                                        
+  FDXN_BRAJA    .......... ....                                        
+  FDXN_AZOCH    .......... ....                                        
+  FERN_AZOVI    .......... ....                                        
+  1bc6_         .......... ....                                        
+  1e08_A        CGGGQPVMPG VLEA                                        
+  FER2_THEAC    .......... ....                                        
+  FER_ENTHI     .......... ....                                        
+  FER_METTE     .......... ....                                        
+  FER4_METJA    .......... ....                                        
+  FER2_METJA    .......... ....                                        
+
+
